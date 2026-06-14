@@ -1,6 +1,15 @@
-Hi there 👋, I'm Shilendra Singh
-⚠️ Previous GitHub Account
+```md
+# Hi, I'm Shilendra Singh 👋
+Software Engineer focused on building scalable web applications
 
-This is my new GitHub profile. My previous GitHub account can be found here:
+## ⚠️ Previous GitHub Account
 
-github.com/shilendra-dev
+This is my new GitHub profile.
+
+My previous GitHub account is:
+**https://github.com/shilendra-dev**
+
+---
+
+Thanks for visiting my profile! 🚀
+```
